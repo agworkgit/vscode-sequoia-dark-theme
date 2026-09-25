@@ -18,6 +18,10 @@ Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter
 ext install AlexGrigore.sequoia-dark
 ```
 
+## Icon Set
+
+In the preview you'll see that I'm using the `Chalice Icons` however I since swapped to the `Hypernym Icons`, you can find them on the VSCode Marketplace, they match the overall aesthetic very well.
+
 ## Preview
 
 ![Preview](./res/images/preview.png)
