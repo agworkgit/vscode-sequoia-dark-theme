@@ -1,0 +1,9 @@
+.vscode/**
+.git/**
+.gitignore
+.github/**
+.vsix
+node_modules/*
+npm-debug.log
+.DS_Store
+Thumbs.db
